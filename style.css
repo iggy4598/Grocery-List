@@ -1,0 +1,32 @@
+h1 {
+  background-color: blue;
+  width: 300px;
+}
+
+.Meat {
+  background-color: darkgreen;
+  width: 200px;
+  height: 100px;
+}
+.MeatPic {
+  padding: 5px 3px 5px 3px;
+}
+
+.fruit {
+  background-color: chocolate;
+  width: 200px;
+  height: 140px;
+}
+.FruitPic {
+  padding: 10px 5px 10px 5px;
+  border: black 50px 50px;
+}
+
+.Chip {
+  background-color: bisque;
+  width: 200px;
+  height: 140px;
+}
+.ChipPic {
+  padding: 15px 30px 15px 30px;
+}
